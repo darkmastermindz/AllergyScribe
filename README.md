@@ -9,3 +9,5 @@ Intuitive Open Source Maintained App to Track Allergies and Allergy Shots.
   After going the process I really wanted a way to keep track of my shots and foods I have been eating and see how they coorelate.
   The current apps available doesn't do a great job in user experience.
   Finding the allergy menu at restaurants is annoying.
+
+## Getting Started
