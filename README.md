@@ -1,4 +1,4 @@
-<img src="allergyscribe-logo.png" data-canonical-src="https://github.com/darkmastermindz/AllergyScribe-iOS/blob/master/allergyscribe-logo.png" width="200" height="200"/>
+<img src="https://github.com/darkmastermindz/AllergyScribe-iOS/blob/master/allergyscribe-logo.png" data-canonical-src="https://github.com/darkmastermindz/AllergyScribe-iOS/blob/master/allergyscribe-logo.png" width="200" height="200"/>
 
 # AllergyScribe
 Intuitive Open Source Maintained App to Track Allergies and Allergy Shots.
