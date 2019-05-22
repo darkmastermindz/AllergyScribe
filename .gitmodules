@@ -1,0 +1,3 @@
+[submodule "AllergyScribe-iOS"]
+	path = AllergyScribe-iOS
+	url = https://github.com/darkmastermindz/AllergyScribe-iOS.git
